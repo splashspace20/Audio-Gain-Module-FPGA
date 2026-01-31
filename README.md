@@ -7,6 +7,8 @@ implemented in **Verilog** and integrated with **AXI-Stream** and **AXI-Lite**.
 Target platform: **AMD Kria KV260**  
 Focus: **RTL architecture, fixed-point DSP decisions, and AXI correctness**
 
+The module is designed for continuous real-time audio streaming, not block-based or offline processing.
+
 ---
 
 ## Overview
