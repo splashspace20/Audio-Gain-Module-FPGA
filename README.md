@@ -206,6 +206,24 @@ Additional documentation is available in `/docs`:
 
 ---
 
+## Related Repository
+
+This module is part of a small RTL-focused DSP building block series.
+
+For a reference implementation of a **Quadrature Mirror Filter (QMF) analysis/synthesis filter bank**  
+using AXI-Stream and fixed-point arithmetic, see:
+
+🔗 https://github.com/vrm-lab/Quadrature-Mirror-Filter-FPGA
+
+The QMF repository focuses on:
+- subband analysis and reconstruction behavior
+- fixed-point DSP discipline
+- AXI-Stream integration correctness
+
+It is provided as a **reference RTL design**, not as a complete system.
+
+---
+
 ## License
 
 Licensed under the MIT License.  
